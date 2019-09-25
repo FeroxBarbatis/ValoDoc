@@ -3,7 +3,7 @@ jQuery(document).ready(function(){
 /* ON CLICK .AVENIR */
 
 $(".avenir").click(function(e) {
-	alert("Cette page arrivera prochainement.");
+	alert("Cette page arrivera prochainement. Une question ? Contact : yoann.leroy@univ-lille.fr");
 	e.preventDefault();
 })
 
