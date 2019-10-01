@@ -465,6 +465,23 @@ footer
 	padding: 5vh;
 }
 
+/* video */
 
-
-
+.video
+{
+	display: flex;
+	height: auto;
+	width: 100%;
+	background-color: black;
+}
+.video iframe
+{
+	width: 70%;
+	padding: 10vh;
+}
+.video p
+{
+	width: 30%;
+	padding: 5vh 2vw 5vh 0vw;
+	color: white;
+}

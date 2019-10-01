@@ -407,3 +407,17 @@ footer
 {
 	margin: 1vh 5vh 1vh 5vh;
 }
+
+/* video */
+
+.video
+{
+	display: flex;
+	height: auto;
+	width: 100%;
+	background-color: black;
+}
+.video iframe
+{
+	height: 50%;
+}

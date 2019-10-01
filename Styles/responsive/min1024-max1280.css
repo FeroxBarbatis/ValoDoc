@@ -433,4 +433,26 @@ footer
 	background-color: rgba(239,239,239,0.9);
 }
 
+/* video */
+
+.video
+{
+	display: flex;
+	flex-direction: column;
+	height: auto;
+	width: 100%;
+	background-color: black;
+}
+.video iframe
+{
+	height: 90%;
+	padding: 2vh;
+}
+.video p
+{
+	width: 90%;
+	padding: 2vh;
+	color: white;
+}
+
 
